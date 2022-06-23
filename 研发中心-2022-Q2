@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:48:44.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="20.0.1" etag="8oZ3izw0RVOKnCuopfMD" type="github"><diagram id="zjk2nYYJ26bcTQM3nChq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-23T06:03:06.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="8JWwGuz6K6QzF2BHCi6P" version="20.0.1" type="github">
+  <diagram id="zjk2nYYJ26bcTQM3nChq" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OS_Hph9_yTjumlO1etQL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="550" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-2" value="核心能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="295" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-3" value="CI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="286.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-4" value="物料库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="286.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-5" value="代码扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="286.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-6" value="图片处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="286.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OS_Hph9_yTjumlO1etQL-7" value="发布构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="286.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
