@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T09:27:21.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="BvgEV2EFOfMXTH9oKKls" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-27T09:30:01.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="AvYRa0_r9wVqr4W3E1r5" version="20.0.3" type="github" pages="4">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           <mxGeometry x="190" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgZGsgy1s3pPIQYwH2t0-2" value="竖屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgZGsgy1s3pPIQYwH2t0-3" value="竖屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="430" width="60" height="30" as="geometry" />
@@ -126,11 +126,17 @@
         <mxCell id="mgZGsgy1s3pPIQYwH2t0-16" value="入口逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgZGsgy1s3pPIQYwH2t0-17" value="动画卡顿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="70" height="30" as="geometry" />
+        <mxCell id="mgZGsgy1s3pPIQYwH2t0-17" value="聊天列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgZGsgy1s3pPIQYwH2t0-18" value="新年红包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mgZGsgy1s3pPIQYwH2t0-19" value="PPT画板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mgZGsgy1s3pPIQYwH2t0-20" value="分屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="455" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
