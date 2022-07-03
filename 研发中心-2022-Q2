@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T03:39:39.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="QcbxeEI3s43y9iuSDC9A" version="20.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-03T03:59:09.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="zf0ntikAGAwQVkzrZeHE" version="20.0.3" type="github" pages="5">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="Page-1">
     <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CFB2dQYv7kOlTXe2uYO8" name="前端该有的">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,6 +291,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cTn2rP-4h2_1WctQPPoi-1" value="日常沉淀&lt;br&gt;(最佳实践，开箱即用)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vyvXV2qrVeaTs2X84gg1-1" value="基础库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vyvXV2qrVeaTs2X84gg1-2" value="通用工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-1" value="埋点SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="169" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-2" value="分享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="289" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-3" value="上传" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="289" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-4" value="截图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="249" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-5" value="海报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="249" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-6" value="生成PDF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="209" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-7" value="导出Excel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="209" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-8" value="changelog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="289" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-9" value="webpack&lt;br&gt;插件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="289" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-10" value="工具库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="169" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clqD5EJSo0gp-aenVSrs-11" value="统一Bridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXdAtAp6KI8e4jsLM8QX-2" value="rem转换px工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="249" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
