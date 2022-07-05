@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T08:41:57.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="1k5bxowgsUNSCRrRQaOV" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-05T08:42:08.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="c6AtYknH4wB652GG1sco" version="20.0.4" type="github" pages="6">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="架构演进">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -117,12 +117,6 @@
         </mxCell>
         <mxCell id="WH5hjU-aaJ4mCVpe4Axh-78" value="其他模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="329" y="534.5" width="196" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="WH5hjU-aaJ4mCVpe4Axh-79" value="现有架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="232" y="720" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WH5hjU-aaJ4mCVpe4Axh-80" value="目标架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="756" y="720" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
