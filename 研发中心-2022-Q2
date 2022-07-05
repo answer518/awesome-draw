@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T11:11:56.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="3iygSiEFqnZ_IMMAbcCb" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-05T11:25:09.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="YVxVdyf5DZ8ix6FKpUZ4" version="20.0.4" type="github" pages="8">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="架构演进">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -667,16 +667,16 @@
         <mxCell id="9Vi6FdnEyWmCkt6-sO0c-2" value="脚手架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="190" y="350" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-3" value="React" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-3" value="UI走查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="253" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-5" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-5" value="自动升级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="253" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-6" value="标准构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="299" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-7" value="Nodejs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9Vi6FdnEyWmCkt6-sO0c-7" value="合规检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="299" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Vi6FdnEyWmCkt6-sO0c-9" value="工程规范&lt;br&gt;持续集成构建&lt;br&gt;常用工具集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
