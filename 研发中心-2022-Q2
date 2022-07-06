@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T12:56:56.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="vV7Tp8cl1NNTW8ugCtQp" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-06T12:57:33.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="yATGlrYbgvylubO0vXjM" version="20.0.4" type="github" pages="8">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="架构演进">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1008,19 +1008,19 @@
         <mxCell id="1UC4es3sd6xrxvJxdUUd-33" value="&lt;b&gt;前端技术建设&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1000" width="1560" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xiDZLPk3EsWuLIVHNZWu-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1256" y="1016" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xiDZLPk3EsWuLIVHNZWu-10" value="综合赋能提效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-10" value="综合赋能提效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1221" y="1146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xiDZLPk3EsWuLIVHNZWu-11" value="发布部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1410" y="970.5" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xiDZLPk3EsWuLIVHNZWu-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1465" y="1016.5" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xiDZLPk3EsWuLIVHNZWu-13" value="产品发布流程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-13" value="产品发布流程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1430" y="1146.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
