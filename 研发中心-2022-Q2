@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T12:46:39.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="Pl4Twsp_deGMwB0zqNNL" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-06T12:51:31.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="mChuFE33Ug6kOTUwgNe4" version="20.0.4" type="github" pages="8">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="架构演进">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -809,7 +809,7 @@
         <mxCell id="fhR2czZQRd5Eb5yCu_4g-5" value="性能指标优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="720" y="970" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhR2czZQRd5Eb5yCu_4g-6" value="云端检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="fhR2czZQRd5Eb5yCu_4g-6" value="CI检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="960" y="970" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhR2czZQRd5Eb5yCu_4g-9" value="搭建能力产品化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -904,19 +904,19 @@
             <mxPoint x="160" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-43" value="自动性能检测分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-43" value="自动性能检测分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="884" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-44" value="性能优化索引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-44" value="性能优化索引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="924" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-45" value="性能评分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-45" value="性能评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="845" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yS_pax8QtgkQHj2L354M-46" value="" style="endArrow=none;html=1;rounded=1;fillColor=#60a917;strokeColor=#CDA2BE;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="970" as="sourcePoint" />
-            <mxPoint x="800" y="820" as="targetPoint" />
+            <mxPoint x="800" y="830" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -938,13 +938,13 @@
             <mxPoint x="829" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-50" value="UI还原度检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-50" value="UI还原度检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="875.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yS_pax8QtgkQHj2L354M-51" value="Lint检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1070" y="915.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-52" value="依赖检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-52" value="依赖检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="836.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yS_pax8QtgkQHj2L354M-53" value="" style="endArrow=none;html=1;rounded=1;fillColor=#60a917;strokeColor=#CDA2BE;strokeWidth=2;" edge="1" parent="1">
@@ -972,7 +972,7 @@
             <mxPoint x="1069" y="931.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yS_pax8QtgkQHj2L354M-57" value="兼容性检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="yS_pax8QtgkQHj2L354M-57" value="兼容性检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1071" y="795.5" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yS_pax8QtgkQHj2L354M-58" value="" style="endArrow=none;html=1;strokeColor=#CDA2BE;curved=1;" edge="1" parent="1">
@@ -1006,13 +1006,22 @@
           <mxGeometry x="740" y="1146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1UC4es3sd6xrxvJxdUUd-33" value="前端技术建设" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1000" width="1440" height="90" as="geometry" />
+          <mxGeometry x="60" y="1000" width="1560" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xiDZLPk3EsWuLIVHNZWu-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1256" y="1016" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xiDZLPk3EsWuLIVHNZWu-10" value="综合赋能提效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1221" y="1146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-11" value="发布部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="970.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1016.5" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xiDZLPk3EsWuLIVHNZWu-13" value="产品发布流程优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1146.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
