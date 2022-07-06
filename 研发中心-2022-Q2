@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T12:55:20.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="tdQq6x9Etdejo3pphkXh" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-06T12:56:56.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="vV7Tp8cl1NNTW8ugCtQp" version="20.0.4" type="github" pages="8">
   <diagram id="zjk2nYYJ26bcTQM3nChq" name="架构演进">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -815,7 +815,7 @@
         <mxCell id="fhR2czZQRd5Eb5yCu_4g-9" value="搭建能力产品化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1201" y="970" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhR2czZQRd5Eb5yCu_4g-18" value="本地工具(CLI)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="fhR2czZQRd5Eb5yCu_4g-18" value="本地工具(CLI)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="161" y="890" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhR2czZQRd5Eb5yCu_4g-19" value="业务组件库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
