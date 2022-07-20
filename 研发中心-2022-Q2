@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:40:03.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1qNcCmpZP17ACh9OGi4e" version="20.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-20T02:27:06.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D06LQI4NynpUSmq8CtV1" version="20.1.1" type="github" pages="6">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -356,106 +356,6 @@
         </mxCell>
         <mxCell id="r4x49RmM1yBIbhpAYZfZ-5" value="1890&lt;br&gt;ms" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="390" y="540" width="50" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="_-wey7Jyfa9nFarTM1I_" name="PC端方案设计">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-2" value="1、同时维护两套组件&lt;br&gt;2、功能迭代频繁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
-          <mxGeometry x="555" y="690" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-3" value="方案一&amp;nbsp; 分2套组件实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="314" y="671" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-4" value="方案二 一套组件渲染分离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="865" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-5" value="1、代码隔离，互不影响" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;align=left;" parent="1" vertex="1">
-          <mxGeometry x="555" y="639" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-6" value="弊大于利" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="705" y="669" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="795" y="674" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="810" y="860" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="787" as="sourcePoint" />
-            <mxPoint x="820" y="787" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-14" value="高阶组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="870" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="920" as="sourcePoint" />
-            <mxPoint x="610" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-18" value="H5渲染" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="840" as="sourcePoint" />
-            <mxPoint x="700" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="920" as="sourcePoint" />
-            <mxPoint x="700" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-21" value="PC渲染" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="K2yfDG8M8oAXbsJvg3Yj-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.1778" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" parent="1" vertex="1">
-          <mxGeometry x="710" y="890" width="80" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-23" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" parent="1" vertex="1">
-          <mxGeometry x="732.5" y="820" width="35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499" y="720" as="sourcePoint" />
-            <mxPoint x="499" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="499" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="650" as="sourcePoint" />
-            <mxPoint x="555" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="720" as="sourcePoint" />
-            <mxPoint x="555" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="684.5" as="sourcePoint" />
-            <mxPoint x="500" y="685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K2yfDG8M8oAXbsJvg3Yj-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="879.5" as="sourcePoint" />
-            <mxPoint x="550" y="879.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -851,6 +751,14 @@
             <mxPoint x="830" y="768.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6xt8bovLqQb8908X5JS2" name="质量保障系统">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
