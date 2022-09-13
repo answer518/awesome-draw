@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T14:09:54.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_kAqd_mjMeXxsSG8aCRp" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-13T14:13:27.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="agEn2RVkxZgePAN2eG4K" version="20.2.3" type="github" pages="4">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -700,7 +700,7 @@
             <mxPoint x="1037" y="896" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1UEOn7hq1tDWIUMrzpRO-62" value="项目部署" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="1UEOn7hq1tDWIUMrzpRO-62" value="部署上线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1042" y="883.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1UEOn7hq1tDWIUMrzpRO-63" value="Lighthouse&lt;br&gt;性能数据收集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#9ACDFF;" vertex="1" parent="1">
