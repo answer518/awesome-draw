@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T02:29:10.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="UVDOLHBw04t_B3yfA06-" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-14T03:50:53.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g7TOE2wh73LxgNm5iwiJ" version="20.2.3" type="github" pages="4">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -601,7 +601,7 @@
         <mxCell id="1UEOn7hq1tDWIUMrzpRO-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#9ACDFF;strokeColor=#B266FF;fillColor=#b266ff;" vertex="1" parent="1">
           <mxGeometry x="453" y="433.5" width="120" height="756.5" as="geometry" />
         </mxCell>
-        <mxCell id="1UEOn7hq1tDWIUMrzpRO-13" value="多端小程序(mpvue)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="1UEOn7hq1tDWIUMrzpRO-13" value="多端小程序(uni-app)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="689" y="529" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UEOn7hq1tDWIUMrzpRO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
