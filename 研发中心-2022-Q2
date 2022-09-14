@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T01:58:46.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WKeIWfz-hNdY9Fsdtx4A" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-14T02:01:30.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wekmLybtS8V5kgzOi5mB" version="20.2.3" type="github" pages="4">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -778,43 +778,43 @@
             <mxPoint x="1292" y="813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1UEOn7hq1tDWIUMrzpRO-100" value="项目初始化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="1UEOn7hq1tDWIUMrzpRO-100" value="项目初始化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1181" y="560" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="G75NUFfmvV5zykgVyqYZ-1" value="命令行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="514" width="100" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-2" value="选择物料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-2" value="选择物料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="603.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-3" value="创建物料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-3" value="创建物料" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="650" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-4" value="Git flow 自动化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-4" value="Git flow 自动化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="699.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-5" value="构建发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-5" value="构建发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="748.5" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="G75NUFfmvV5zykgVyqYZ-7" value="数据指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1184" y="830" width="100" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-8" value="风险评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-8" value="风险评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1180" y="882.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-9" value="规范评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-9" value="规范评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1180" y="926" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-10" value="质量评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-10" value="质量评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1180" y="972.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-11" value="性能评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-11" value="性能评分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1022" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-12" value="指标趋势" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-12" value="指标趋势" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1071" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="G75NUFfmvV5zykgVyqYZ-13" value="构建时长" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="1">
+        <mxCell id="G75NUFfmvV5zykgVyqYZ-13" value="构建时长" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;" vertex="1" parent="1">
           <mxGeometry x="1181" y="1120.5" width="106" height="27.5" as="geometry" />
         </mxCell>
       </root>
