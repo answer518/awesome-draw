@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T10:56:22.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_8BfqJO1F06iUPunjsG9" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-14T11:06:32.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iD6nRpkeNuHGskCMaqjy" version="20.4.0" type="github" pages="5">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -858,13 +858,13 @@
         <mxCell id="Ge3o2dT_77IoPwlbTNZh-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="225" width="140" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Ge3o2dT_77IoPwlbTNZh-5" value="课程" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Ge3o2dT_77IoPwlbTNZh-5" value="直播" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ge3o2dT_77IoPwlbTNZh-6" value="直播" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Ge3o2dT_77IoPwlbTNZh-6" value="App" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="345" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ge3o2dT_77IoPwlbTNZh-7" value="订单" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Ge3o2dT_77IoPwlbTNZh-7" value="..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="415" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ge3o2dT_77IoPwlbTNZh-9" value="直播子应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
