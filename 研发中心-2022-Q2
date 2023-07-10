@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T06:52:00.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jLLLDz7MCGDn99_5VmQh" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-10T07:30:34.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SgXJ9fWqEgea6PK4Wl31" version="21.5.2" type="github" pages="5">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="794" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -713,82 +713,109 @@
           <mxGeometry x="1220" y="620" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="750" y="700" width="590" height="120" as="geometry" />
+          <mxGeometry x="750" y="700" width="540" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-17" value="直播管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="750" y="830" width="590" height="140" as="geometry" />
+          <mxGeometry x="751" y="880" width="540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="750" y="981" width="590" height="309" as="geometry" />
+          <mxGeometry x="750" y="941" width="540" height="289" as="geometry" />
         </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-21" value="品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-21" value="业务&lt;br&gt;品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="650" y="560" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-22" value="页面&lt;br&gt;组件化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="715" width="70" height="70" as="geometry" />
+          <mxGeometry x="650" y="743" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-23" value="速云服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="650" y="885" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-24" value="抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="770" y="715" width="90" height="35" as="geometry" />
+          <mxGeometry x="970" y="757" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-26" value="公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="880" y="715" width="90" height="35" as="geometry" />
+          <mxGeometry x="970" y="710" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-27" value="主播端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="1030" width="70" height="40" as="geometry" />
+          <mxGeometry x="650" y="980" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-28" value="直播&lt;br&gt;形态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="764" y="1005.5" width="40" height="160" as="geometry" />
+          <mxGeometry x="764" y="710" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-29" value="分屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="824" y="1005.5" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-30" value="横屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="824" y="1049.5" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-31" value="新分屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="824" y="1093.5" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-32" value="竖屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="824" y="1135.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="810" y="710" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-33" value="直播&lt;br&gt;能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="962" y="1005.5" width="40" height="160" as="geometry" />
+          <mxGeometry x="962" y="955.5" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-34" value="单人/多人连麦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1022" y="1005.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1022" y="955.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-35" value="屏幕共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1022" y="1048.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1022" y="998.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-36" value="插播视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1022" y="1092.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1022" y="1042.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-37" value="美颜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1022" y="1135.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1022" y="1085.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-40" value="本地录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1150" y="1005.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1150" y="955.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-41" value="课件混流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1150" y="1048.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1150" y="998.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-43" value="崩溃监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="824" y="1180" width="120" height="30" as="geometry" />
+          <mxGeometry x="824" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-44" value="融合OBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="1151" y="1092.5" width="120" height="76.5" as="geometry" />
+          <mxGeometry x="1151" y="1042.5" width="120" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-45" value="基建&lt;br&gt;支撑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="764" y="1180" width="40" height="80" as="geometry" />
+          <mxGeometry x="764" y="1129" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-47" value="CICD 自动化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="962" y="1180" width="150" height="30" as="geometry" />
+          <mxGeometry x="962" y="1130" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-48" value="架构升级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="823" y="1226" width="451" height="30" as="geometry" />
+          <mxGeometry x="823" y="1176" width="451" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-50" value="竖屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="737" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-51" value="横屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="763" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-52" value="新分屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="790" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-53" value="业务&lt;br&gt;组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="920" y="710" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-55" value="PPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1190" y="713" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-56" value="基础&lt;br&gt;组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1140" y="713" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-57" value="视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1190" y="749.5" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-58" value="聊天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1190" y="786.5" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-59" value="三方&lt;br&gt;品牌" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1450" y="530" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-60" value="小白直播" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1510" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-61" value="进高阶直播" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1510" y="620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-62" value="响应式(mobile/pc/ipad)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="766" y="828" width="514" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
