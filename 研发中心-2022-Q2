@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T01:06:02.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EOxctfq_ftqZLOxCAcpH" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-10T06:07:53.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="12e725x8pLFvBnHZqrAF" version="21.5.2" type="github" pages="5">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="794" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -674,11 +674,56 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="直播体系" id="7S6am8qb43lL5S-XU-zs">
-    <mxGraphModel dx="794" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
+  <diagram name="直播平台体系" id="7S6am8qb43lL5S-XU-zs">
+    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4A92LUgfH_bILlg2CHwa-0" />
         <mxCell id="4A92LUgfH_bILlg2CHwa-1" parent="4A92LUgfH_bILlg2CHwa-0" />
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-0" value="启牛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="750" y="530" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-3" value="小白直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-4" value="进高阶直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-5" value="大咖直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="620" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-6" value="保险直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="810" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-7" value="讲真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="960" y="530" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-8" value="小白直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1020" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-9" value="进高阶直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1020" y="620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-12" value="讲真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1160" y="530" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-13" value="小白直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1220" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-14" value="进高阶直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="1220" y="620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-16" value="速云SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="750" y="700" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-17" value="速云管理端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="750" y="770" width="590" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-18" value="主播端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="750" y="920" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="640" y="530" width="100" height="550" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
