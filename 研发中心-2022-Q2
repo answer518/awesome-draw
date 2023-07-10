@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T08:18:11.686Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3gMHbUvgwXJyGsnKF682" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-10T08:22:56.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cvZtzHSJ_LA66-B1OkzK" version="21.5.2" type="github" pages="5">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="794" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -719,22 +719,16 @@
           <mxGeometry x="750" y="941" width="540" height="189" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-21" value="业务&lt;br&gt;品牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="560" width="70" height="80" as="geometry" />
+          <mxGeometry x="650" y="530" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-22" value="页面&lt;br&gt;组件化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="743" width="70" height="70" as="geometry" />
+          <mxGeometry x="650" y="700" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-23" value="速云服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="650" y="885" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-24" value="抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="970" y="757" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-26" value="公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="970" y="710" width="90" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-27" value="主播端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
-          <mxGeometry x="650" y="980" width="70" height="40" as="geometry" />
+          <mxGeometry x="650" y="940" width="70" height="190" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-28" value="页面&lt;br&gt;布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="764" y="710" width="40" height="100" as="geometry" />
@@ -828,6 +822,15 @@
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-68" value="基建&lt;br&gt;支撑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="1340" y="1060" width="40" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-69" value="公告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="979.5" y="712.5" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-70" value="抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="979.5" y="749" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-71" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+          <mxGeometry x="979.5" y="786" width="90" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
