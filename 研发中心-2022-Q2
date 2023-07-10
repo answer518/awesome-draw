@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T08:08:16.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wvKz_Knldtw70uQ-fyI-" version="21.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-10T08:11:03.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1Mk5Oo630LypD-J3yfKa" version="21.5.2" type="github" pages="5">
   <diagram id="k0RaI85f_ioMcO8IeMv5" name="一阶段架构">
     <mxGraphModel dx="794" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -736,7 +736,7 @@
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-27" value="主播端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="650" y="980" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-28" value="直播&lt;br&gt;形态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
+        <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-28" value="页面&lt;br&gt;布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
           <mxGeometry x="764" y="710" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-29" value="分屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4A92LUgfH_bILlg2CHwa-1">
