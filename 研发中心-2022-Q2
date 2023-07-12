@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T07:47:14.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jxASvTw4UwXxNW-D7E45" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-12T07:48:24.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eEbVSEIG0DRuEuUzPdgs" version="21.6.2" type="github" pages="4">
   <diagram id="6xt8bovLqQb8908X5JS2" name="整体架构">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -354,13 +354,13 @@
         <mxCell id="I4EI56UBt0kffq8pUrpy-13" value="React" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="700" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I4EI56UBt0kffq8pUrpy-14" value="前端应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="I4EI56UBt0kffq8pUrpy-14" value="支持应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="604" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I4EI56UBt0kffq8pUrpy-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66b3ff;strokeColor=#10739e;dashed=1;dashPattern=1 2;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="584" y="631" width="560" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="I4EI56UBt0kffq8pUrpy-16" value="内部设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="I4EI56UBt0kffq8pUrpy-16" value="模块设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="604" y="718.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I4EI56UBt0kffq8pUrpy-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
