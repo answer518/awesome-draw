@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T07:53:28.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kAWxa8AlVITxNRGfdwwc" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-12T07:55:02.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tyiii09y-aR0X3vwracG" version="21.6.2" type="github" pages="4">
   <diagram id="6xt8bovLqQb8908X5JS2" name="整体架构">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
         <mxCell id="gHSjoDVjDrt2pQRN1u---22" value="Commit规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="460.75" y="645.13" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gHSjoDVjDrt2pQRN1u---23" value="npm包管理规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="gHSjoDVjDrt2pQRN1u---23" value="npm包规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="459.25" y="707.13" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="gHSjoDVjDrt2pQRN1u---26" value="发布上线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
