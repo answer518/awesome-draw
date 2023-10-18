@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:37:39.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="c2a7ZZb1YJiBb1cKgi62" version="21.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:42:13.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YBgH6p58CS_5KzgoiIO6" version="21.8.0" type="github" pages="4">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1266" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="I4EI56UBt0kffq8pUrpy-13" value="React" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="700" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I4EI56UBt0kffq8pUrpy-14" value="支持应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="I4EI56UBt0kffq8pUrpy-14" value="前端应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=13;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="604" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I4EI56UBt0kffq8pUrpy-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66b3ff;strokeColor=#10739e;dashed=1;dashPattern=1 2;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
@@ -262,7 +262,7 @@
         <mxCell id="gHSjoDVjDrt2pQRN1u---26" value="发布上线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="340" y="931" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gHSjoDVjDrt2pQRN1u---27" value="风险规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="gHSjoDVjDrt2pQRN1u---27" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="460" y="769" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="gHSjoDVjDrt2pQRN1u---28" value="gzip压缩" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
@@ -533,6 +533,14 @@
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-84" value="CICD自动化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="4A92LUgfH_bILlg2CHwa-1" vertex="1">
           <mxGeometry x="1118" y="1197" width="130" height="36" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CIhV0gXJLVs6BtUbbvQ1" name="第 4 页">
+    <mxGraphModel dx="1266" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
