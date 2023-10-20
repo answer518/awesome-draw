@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:43:55.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RGoEOot9Qt1HSQjDgAIW" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:45:57.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nWhVnjTrxwfRWt73Hhhy" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -727,7 +727,7 @@
           <mxGeometry x="1068" y="442" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
-          <mxGeometry x="1053" y="476.5" width="109" height="103" as="geometry" />
+          <mxGeometry x="1053" y="476.5" width="109" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-2" value="离线包" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1058" y="514.5" width="44" height="22" as="geometry" />
@@ -742,7 +742,7 @@
           <mxGeometry x="968.5" y="569.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-10" value="JSBridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
-          <mxGeometry x="1057.5" y="545" width="98.5" height="23.5" as="geometry" />
+          <mxGeometry x="1057.5" y="570" width="98.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-11" value="脚手架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="768" y="868.5" width="80" height="30" as="geometry" />
@@ -887,6 +887,9 @@
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-79" value="动画库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="698.5" y="759.44" width="91" height="31.56" as="geometry" />
+        </mxCell>
+        <mxCell id="jpUeJUNHyWAQmgZ7E8pf-80" value="预加载" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+          <mxGeometry x="1057.75" y="541.5" width="98.5" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
