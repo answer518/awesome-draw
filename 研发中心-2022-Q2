@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:50:57.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WOTq3RhVtvTtar91Zim2" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:55:20.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1D0r3do6RPKDFCVWcpJj" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="整体架构 的副本" id="B6SFya5MiyR7VPvqsL1X">
-    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NjCq_A-LvMPMcjctH1fx-0" />
         <mxCell id="NjCq_A-LvMPMcjctH1fx-1" parent="NjCq_A-LvMPMcjctH1fx-0" />
@@ -795,9 +795,6 @@
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-45" value="双CDN容灾" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="809.5" y="1152.25" width="83.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="jpUeJUNHyWAQmgZ7E8pf-46" value="静态资源管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
-          <mxGeometry x="1002.5" y="1151" width="83.5" height="27.5" as="geometry" />
-        </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="693" y="1031" width="100" height="100" as="geometry" />
         </mxCell>
@@ -871,7 +868,7 @@
           <mxGeometry x="1109" y="1143" width="140" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-71" value="图片自适应" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
-          <mxGeometry x="909.5" y="1151" width="83.5" height="27.5" as="geometry" />
+          <mxGeometry x="909.5" y="1151" width="170.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-72" value="前端安全扫描" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1098" y="1194.5" width="160" height="27.5" as="geometry" />
