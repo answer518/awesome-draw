@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:49:42.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="P6BKbXJ6XeUiqDSVeeN-" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:50:12.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kO2VX3Wk4_Gw4vLfKYLS" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -654,10 +654,10 @@
         <mxCell id="NjCq_A-LvMPMcjctH1fx-80" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="460" y="762.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjCq_A-LvMPMcjctH1fx-81" value="组件插入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+        <mxCell id="NjCq_A-LvMPMcjctH1fx-81" value="组件插入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="948" y="719" width="60" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="NjCq_A-LvMPMcjctH1fx-82" value="图片上传" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+        <mxCell id="NjCq_A-LvMPMcjctH1fx-82" value="图片上传" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1024" y="719" width="60" height="26.25" as="geometry" />
         </mxCell>
         <mxCell id="NjCq_A-LvMPMcjctH1fx-84" value="代码转换" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
