@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T08:34:20.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eeKzOmew2FGM7ZR22wOx" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:35:53.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="G9H5Wk96yCFEpwKMYTeH" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
         <mxCell id="gHSjoDVjDrt2pQRN1u---26" value="线上运行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="340" y="1098.88" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gHSjoDVjDrt2pQRN1u---27" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="gHSjoDVjDrt2pQRN1u---27" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="460" y="762.5" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="gHSjoDVjDrt2pQRN1u---28" value="组件插入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
@@ -307,7 +307,7 @@
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-4" value="双CDN容灾" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="917" y="1191.5" width="83.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-9" value="流量异常告警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-9" value="CDN告警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="1026" y="1191.5" width="83.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
@@ -373,7 +373,7 @@
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-31" value="性能" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="1022" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-32" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-32" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="1074.63" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
@@ -403,7 +403,7 @@
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-45" value="白屏检测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="810.5" y="1151.5" width="88" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-46" value="兼容性规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
+        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-46" value="兼容性规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="460" y="815.5" width="106" height="27.5" as="geometry" />
         </mxCell>
       </root>
