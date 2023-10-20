@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:36:57.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wL4jsjj2ES6m2KiId9Ff" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:39:53.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PG52h7l2aaIlZNoMaAST" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -550,7 +550,7 @@
           <mxGeometry x="1298" y="439" width="20" height="561" as="geometry" />
         </mxCell>
         <mxCell id="NjCq_A-LvMPMcjctH1fx-49" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FFAE5F;strokeColor=#FFAE5F;strokeWidth=2;fillColor=#FFAE5F;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
-          <mxGeometry x="1322" y="434" width="120" height="566" as="geometry" />
+          <mxGeometry x="1322" y="434" width="118" height="566" as="geometry" />
         </mxCell>
         <mxCell id="NjCq_A-LvMPMcjctH1fx-50" value="&lt;br&gt;集成&lt;br&gt;LZ-CLI脚手架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1332" y="433.5" width="100" height="57.5" as="geometry" />
@@ -582,7 +582,7 @@
         <mxCell id="NjCq_A-LvMPMcjctH1fx-57" value="Git flow 自动化" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#9ACDFF;fillColor=#ffffff;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1329" y="678.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjCq_A-LvMPMcjctH1fx-58" value="构建发布" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#9ACDFF;fillColor=#ffffff;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+        <mxCell id="NjCq_A-LvMPMcjctH1fx-58" value="构建" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#9ACDFF;fillColor=#ffffff;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1329" y="725.5" width="106" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="NjCq_A-LvMPMcjctH1fx-59" value="数据指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
