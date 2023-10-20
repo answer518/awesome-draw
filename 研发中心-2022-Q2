@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:59:57.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5Tb1TNjcWgLgwl6NGZFy" version="22.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-20T11:04:13.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mXtXAPVagGUcSuK9SWNQ" version="22.0.5" type="github" pages="5">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -882,7 +882,7 @@
             <mxPoint x="574.71" y="1125.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpUeJUNHyWAQmgZ7E8pf-79" value="动画库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+        <mxCell id="jpUeJUNHyWAQmgZ7E8pf-79" value="动画库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="698.5" y="759.44" width="91" height="31.56" as="geometry" />
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-80" value="预加载" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
@@ -899,6 +899,9 @@
         </mxCell>
         <mxCell id="jpUeJUNHyWAQmgZ7E8pf-84" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
           <mxGeometry x="1186" y="566.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpUeJUNHyWAQmgZ7E8pf-85" value="大前端技术体系全景图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="NjCq_A-LvMPMcjctH1fx-1">
+          <mxGeometry x="733" y="380" width="343" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
