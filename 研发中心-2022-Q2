@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T15:59:46.413Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eJ90xiBTXceL9gjOvXp9" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-25T16:00:05.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_jHjniYnpvDhB0f-Ccki" version="22.0.8" type="github" pages="6">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -370,9 +370,6 @@
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-31" value="性能" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="1022" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="cWbDjCqzJ4sGGIR3OlXN-32" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
-          <mxGeometry x="459" y="1074.63" width="106" height="27.5" as="geometry" />
-        </mxCell>
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="1050" y="442.5" width="80" height="127.5" as="geometry" />
         </mxCell>
@@ -405,6 +402,9 @@
         </mxCell>
         <mxCell id="JQQ1655snSII_6ydjlqM-1" value="兼容性规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
           <mxGeometry x="459" y="812" width="106" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JQQ1655snSII_6ydjlqM-2" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+          <mxGeometry x="459" y="1075.25" width="106" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
