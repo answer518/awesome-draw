@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T16:00:05.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_jHjniYnpvDhB0f-Ccki" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-20T06:32:53.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n63MJ7-6H4Hjxq13lGwv" version="22.1.21" type="github" pages="7">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
-    <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="I4EI56UBt0kffq8pUrpy-0" />
         <mxCell id="I4EI56UBt0kffq8pUrpy-1" parent="I4EI56UBt0kffq8pUrpy-0" />
@@ -397,13 +397,13 @@
         <mxCell id="cWbDjCqzJ4sGGIR3OlXN-45" value="白屏检测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;fontColor=#9ACDFF;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="810.5" y="1151.5" width="88" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="JQQ1655snSII_6ydjlqM-0" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="JQQ1655snSII_6ydjlqM-0" value="安全规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="753.5" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="JQQ1655snSII_6ydjlqM-1" value="兼容性规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="JQQ1655snSII_6ydjlqM-1" value="兼容性规范" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="812" width="106" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="JQQ1655snSII_6ydjlqM-2" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" vertex="1" parent="I4EI56UBt0kffq8pUrpy-1">
+        <mxCell id="JQQ1655snSII_6ydjlqM-2" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#9ACDFF;strokeWidth=3;" parent="I4EI56UBt0kffq8pUrpy-1" vertex="1">
           <mxGeometry x="459" y="1075.25" width="106" height="27.5" as="geometry" />
         </mxCell>
       </root>
@@ -1840,6 +1840,47 @@
         </mxCell>
         <mxCell id="IT5Qgdnxt8i_Uhg1bLL9-84" value="CICD自动化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="4A92LUgfH_bILlg2CHwa-1" vertex="1">
           <mxGeometry x="1118" y="1197" width="130" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dD3QbKgMBJvs2dvDMvxU" name="第 7 页">
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#FF6666;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="119" y="250" width="381" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-2" value="AST抽象语法树" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF6666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="357.5" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-3" value="模版" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9ACDFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF6666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="357.5" width="270" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-4" value="组件库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-5" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-6" value="运行时框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-9" value="Nerv&lt;br&gt;（类React代码）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0AS2dkhHbHvJcju-BJGc-2" target="0AS2dkhHbHvJcju-BJGc-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="sourcePoint" />
+            <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
