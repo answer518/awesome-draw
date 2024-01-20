@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T11:13:15.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zFdq66Hh47_8ITROQN84" version="22.1.21" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-20T11:13:29.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tYRvQ3T1TLayc4cLdH29" version="22.1.21" type="github" pages="8">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -1844,7 +1844,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dD3QbKgMBJvs2dvDMvxU" name="第 7 页">
+  <diagram id="dD3QbKgMBJvs2dvDMvxU" name="Taro架构">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
