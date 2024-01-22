@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T11:31:02.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KCU-djAWXH10Bw5yuxZG" version="22.1.21" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-22T02:23:21.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ulOJMHmPvx_Cx3I1xZJd" version="22.1.21" type="github" pages="8">
   <diagram name="整体架构" id="uawisS9rutdl0A-UenW7">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -1849,7 +1849,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0AS2dkhHbHvJcju-BJGc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;strokeColor=#001DBC;fillColor=#66B2FF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=0;strokeColor=#001DBC;fillColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="130" y="237" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0AS2dkhHbHvJcju-BJGc-2" value="AST抽象语法树" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;strokeWidth=0;fontColor=#ffffff;" parent="1" vertex="1">
@@ -1870,7 +1870,7 @@
         <mxCell id="0AS2dkhHbHvJcju-BJGc-6" value="运行时框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="417" y="344" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0AS2dkhHbHvJcju-BJGc-9" value="（类React代码）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#3700CC;strokeWidth=0;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="0AS2dkhHbHvJcju-BJGc-9" value="（类React代码）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#001DBC;strokeColor=#3700CC;strokeWidth=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="260" y="153" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0AS2dkhHbHvJcju-BJGc-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#6666FF;strokeWidth=1;" parent="1" source="0AS2dkhHbHvJcju-BJGc-2" target="0AS2dkhHbHvJcju-BJGc-9" edge="1">
